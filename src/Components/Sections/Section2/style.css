@@ -1,0 +1,33 @@
+.background-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://es.gefco.net/fileadmin/_processed_/2/4/csm_gefco-header-people-working-cover_c333df408d.jpg");
+  background-size: cover;
+  min-height: 90vh;
+}
+
+.content1 h2 {
+  padding-top: 130px;
+  letter-spacing: 3px;
+}
+
+.content1 span {
+  font-weight: 800;
+  font-size: 1.2em;
+  color: #ffff00;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons button:nth-child(1) {
+  background: #0044cc;
+  border: none;
+  color: #fff;
+  margin-top: 90px;
+}
+
+.buttons button:nth-child(2) {
+  background: #3ff112;
+  color: #fff;
+  border: none;
+  width: 200px;
+  margin-top: 90px;
+  margin-left: 60px;
+}
